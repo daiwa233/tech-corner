@@ -166,7 +166,7 @@ plugins: [
 
 <img src="/Users/daiwa/dwProject/blogs/assets/image-20210210164924199.png" alt="image-20210210164924199" style="zoom:25%;" />
 
-demo in GitHub : [webpack-multi-entry](https://github.com/daiwa233/blogs/demos/webpack-multi-entry)
+demo in GitHub : [webpack-multi-entry](https://github.com/daiwa233/blogs/tree/master/demos/webpack-multi-entry)
 
 ## 问题及解决方案
 

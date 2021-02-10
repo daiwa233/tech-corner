@@ -4,7 +4,7 @@
 
  webpack 多入口配置 demo
 
- [点击此处查看文章](https://github.com/daiwa233/blogs/webpack-multi-entry)
+ [点击此处查看文章](https://github.com/daiwa233/blogs/blob/master/webpack-multi-entry.md)
 
 ## Available Scripts
 
