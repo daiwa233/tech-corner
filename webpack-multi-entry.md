@@ -2,7 +2,7 @@
 
 webpack 作为前端经常使用的打包工具，但是其配置的繁琐程度往往让人望而生畏，下面整理一下在 CRA 中配置 webpack多入口时的一些内容，希望通过积累来达到对 webpack 的熟练使用
 
-![image-20210210182403492](/Users/daiwa/dwProject/blogs/assets/image-20210210182403492.png)
+![image-20210210182403492](assets/image-20210210182403492.png)
 
 ## 什么时候需要配置多入口
 
@@ -164,7 +164,7 @@ plugins: [
 
 经过上面的配置，yarn start 已经可以正常工作了。我们已经可以在 http://localhost:3000/webpack-dev-server 中访问到dev模式下生成的文件。
 
-<img src="/Users/daiwa/dwProject/blogs/assets/image-20210210164924199.png" alt="image-20210210164924199" style="zoom:25%;" />
+<img src="assets/image-20210210164924199.png" alt="image-20210210164924199" style="zoom:25%;" />
 
 demo in GitHub : [webpack-multi-entry](https://github.com/daiwa233/blogs/tree/master/demos/webpack-multi-entry)
 
