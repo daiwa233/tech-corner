@@ -1,7 +1,6 @@
-# web 云游戏外设探索
+# GamePad API
 
 1. web hid & gamepad 的 API 使用
-2. 跟现有云游戏键鼠映射方案结合
 
 ## web hid
 

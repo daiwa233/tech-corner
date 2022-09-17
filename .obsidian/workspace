@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "59813d0c54effb01",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4a57d8497808b79",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5da28cf8a89b958",
+    "type": "split",
+    "children": [
+      {
+        "id": "62b0f707103fc139",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67e628af1b3644ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "acf986b2bfb73f1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d8ce4acb8a34846",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ada081e8f158c6bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "16bd57ffe60d99a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7116fa24e42ef134",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64ffb21461b9e3d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c66866c75ed4ecb3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a8ef82d7b301fde1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d4a57d8497808b79",
+  "lastOpenFiles": [
+    "2022 年规划.md",
+    "use-worker-react.md",
+    "webpack-multi-entry.md",
+    "http-cache.md",
+    "get 请求编码问题梳理.md",
+    "云游戏外设探索.md",
+    "react-vue-difference.md",
+    "pitfalls-in-javascript-module.md",
+    "时区.md"
+  ]
+}
