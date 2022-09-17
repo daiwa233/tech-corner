@@ -1,3 +1,3 @@
-# blogs
+# Tech Corner
 
 

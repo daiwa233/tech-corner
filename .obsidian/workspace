@@ -7,8 +7,12 @@
         "id": "d4a57d8497808b79",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.MD",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.MD",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.MD",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.MD"
+              }
             }
           }
         ]
@@ -122,6 +130,7 @@
   },
   "active": "d4a57d8497808b79",
   "lastOpenFiles": [
+    "exclude/2022 年规划.md",
     "2022 年规划.md",
     "use-worker-react.md",
     "webpack-multi-entry.md",
